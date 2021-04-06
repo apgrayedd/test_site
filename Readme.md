@@ -1,12 +1,18 @@
-# Личный проект «Глейси»
+# Личный проект «Кэт энерджи»
 
-* Студент: [Дима Арефьев](https://up.htmlacademy.ru/htmlcss/30/user/1609269).
-* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
+* Студент: [Дима Арефьев](https://up.htmlacademy.ru/adaptive/22/user/1609269).
+* Наставник: [Малик](https://htmlacademy.ru/profile/id17217).
 
 ---
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+**Обратите внимание, что папка с вашими исходными файлами — `source/`.**
+
+Полезный файл:
+
+- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+
+_Не удаляйте и не обращайте внимание на файлы:_<br>
+_`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`, `package-lock.json`, `package.json`._
 
 ---
 
@@ -14,30 +20,39 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1609269-gllacy-30) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/1609269-cat-energy-22) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037742-a62a72a0-7bad-11e7-9f36-4db8e9329498.jpg">
+<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808133-3a7ace00-a190-11e9-9d29-401b02036a9c.jpg">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037746-a760c82c-7bad-11e7-89ab-7c99998d4317.jpg">
+<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808135-3a7ace00-a190-11e9-9a8d-7390b3784c65.jpg">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037747-a8e89422-7bad-11e7-819d-bca9f4c1de18.jpg">
+<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808136-3a7ace00-a190-11e9-884f-24621e62b29a.jpg">
 
-Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
+Клонировать репозиторий можно так:
+
+```
+git clone SSH-адрес_вашего_форка
+```
+
+Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
 #### 4. Начинайте обучение!
 
 ---
 
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
+<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
+
+[check-image]: https://github.com/htmlacademy-adaptive/1609269-cat-energy-22/workflows/Project%20check/badge.svg?branch=master
+[check-url]: https://github.com/htmlacademy-adaptive/1609269-cat-energy-22/actions
