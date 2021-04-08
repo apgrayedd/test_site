@@ -74,7 +74,8 @@
   background-color: transparent;
   outline: none;
   border: none;
-  width: 24px;
+  padding: 0;
+  pointer-events: none;
 }
 .main-nav__list {
   display: none;
@@ -630,7 +631,7 @@
   left: -39px;
   width: 30px;
   height: 30px;
-  background-image: url("../../img/positive-checkbox.svg");
+  background-image: url("../img/positive-checkbox.svg");
   background-repeat: no-repeat;
 }
 /*Catalog*/
